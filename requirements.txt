@@ -1,0 +1,7 @@
+bentoml>=1.2.0
+paddleocr==3.3.3
+pillow
+numpy
+opencv-python-headless
+# paddlepaddle-gpu устанавливается из базового образа
+
